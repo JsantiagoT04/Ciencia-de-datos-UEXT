@@ -70,7 +70,7 @@ Transformo datos en **insights accionables para decisiones de negocio**, combina
 Los padres tienen pocas herramientas para evitar que sus hijos vean contenido sensible. Construí y preprocesé un dataset de imágenes (limpieza, transformación y preparación) y entrené una **red neuronal convolucional** para clasificarlas. Interpreté los resultados y los comuniqué con visualizaciones en Power BI.
 
 
-### 🏥 Priorización de pacientes con un modelo logístico bayesiano
+### Priorización de pacientes con un modelo logístico bayesiano
 *Ago – Nov 2024 · Python · Estadística bayesiana · Power BI*
 
 Preparé y limpié una base de **1.500 pacientes** y conecté el EDA con el contexto real del triage. Implementé un **modelo logístico bayesiano** y analicé los coeficientes beta para identificar las variables relevantes en la priorización, entre ellas el género. Comuniqué los hallazgos con visualizaciones en Power BI.
