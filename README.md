@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/santiagotoro3">
+  <a href="https://www.linkedin.com/in/santiagotoro3/">
     <img src="https://img.shields.io/badge/LinkedIn-Santiago%20Toro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:jsantiagotorotj4@gmail.com">
